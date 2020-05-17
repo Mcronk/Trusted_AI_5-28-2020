@@ -1,7 +1,5 @@
-# IBM Trusted AI Workshop:
+# IBM Trusted AI Workshop
 ## Bias, Explainability and Robustness of Machine Learning Models using IBM Toolkits
-
-## Abstract:
  
 When deploying machine learning models, other factors besides the accuracy of the model needs to be considered. Is the model biased? Can the decisions made by the model be explained?. Is the model robust to adversarial attacks? IBM has developed 3 toolkits to help address these questions.
 
