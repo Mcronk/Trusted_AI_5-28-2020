@@ -15,3 +15,4 @@ This session will provide a brief overview of the toolkits and 1 lab on each too
 
 [Lab-4](Lab-4) - This lab will feature Watson OpenScale. IBM Watson OpenScale is an open platform that helps remove barriers to enterprise-scale AI by supporting bias mitigation, accuracy, and explainability of outcomes among other features. 
 
+Material forked from THINK 2020 session: https://github.com/bleonardb3/Think2020
