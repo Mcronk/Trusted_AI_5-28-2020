@@ -20,8 +20,6 @@ Upon completing the lab, you will learn how to:
 1. create, train, and evaluate a XGBoost model
 1. use Protodash Algorithm to extract similar examples and compare with the current patient's case
 
+### Step 1. Please click on the link below to download the instructions to your machine.
 
-### Step 1.  Please click on the link below to download the instructions to your machine.
-
-[Instructions](https://github.com/bleonardb3/Think2020/raw/master/Lab-2/AIXv1.0.pdf).
-
+[Instructions](https://github.com/Mcronk/Trusted_AI_5-28-2020/raw/master/Lab-2/AIXv1.0.pdf).
