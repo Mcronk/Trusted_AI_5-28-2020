@@ -25,4 +25,4 @@ Upon completing this lab you will learn:
 
 ### Step 1. Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/Mcronk/Trusted_AI_5-28-2020/raw/master/Lab-1/AIFv1.1.pdf).
+[Instructions](https://github.com/Mcronk/Trusted_AI_5-28-2020/raw/master/Lab-1/AIFv1.2.pdf).
